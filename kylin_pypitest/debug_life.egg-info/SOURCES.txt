@@ -1,0 +1,8 @@
+README.md
+setup.py
+debug_life/__init__.py
+debug_life/result_show.py
+debug_life.egg-info/PKG-INFO
+debug_life.egg-info/SOURCES.txt
+debug_life.egg-info/dependency_links.txt
+debug_life.egg-info/top_level.txt
